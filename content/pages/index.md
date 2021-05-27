@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Coming soon
+    title: Coming soon!
     actions: []
     align: left
     image: images/hero.svg
