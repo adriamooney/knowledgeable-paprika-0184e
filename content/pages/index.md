@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Coming to New Mexico soon
+    title: Coming soon
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
