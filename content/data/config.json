@@ -30,7 +30,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo_alt": "Flowers & Herb"
     },
     "footer": {
         "has_nav": false,
