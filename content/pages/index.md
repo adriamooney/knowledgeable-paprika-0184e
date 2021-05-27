@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Coming to Albuquerque
+    title: Coming to albuquerque
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
