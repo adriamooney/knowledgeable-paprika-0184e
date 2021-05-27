@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Coming soon
-    subtitle: 'Opening in Albuquerque, NM in 2022'
     actions: []
     align: left
     image: images/hero.svg
