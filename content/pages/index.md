@@ -15,7 +15,6 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    subtitle: A retail experience beyond cannabis.  Coming to New Mexico
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
