@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Coming soon
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Opening in New Mexico 2022
     actions: []
     align: left
     image: images/hero.svg
