@@ -12,7 +12,6 @@ sections:
       background_image_opacity: 80
       background_image_size: contain
       background_image_repeat: no-repeat
-      background_image: /images/f_h_preview.png
     image: /images/f&h.png
     title: Coming Soon!
     subtitle: Cannabis retail reimagined. Marketplace coming to New Mexico 2022
