@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Flowers & Herb
+    title: Coming Soon!
     actions: []
     align: left
     image_alt: Hero placeholder image
