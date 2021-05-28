@@ -13,6 +13,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+      background_image: /images/pleasant-pine.jpg
     subtitle: >-
       Cannabis retail reimagined. Lifestyle marketplace coming to New Mexico
       2022
