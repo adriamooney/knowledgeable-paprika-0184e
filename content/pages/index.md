@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:title'
       value: Flowers and Herb
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: Flowers and Herb
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
