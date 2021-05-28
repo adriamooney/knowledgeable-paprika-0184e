@@ -12,7 +12,7 @@ sections:
       background_color: gray
       background_image_opacity: 80
       background_image_size: cover
-      background_image_repeat: repeat
+      background_image_repeat: no-repeat
       background_image: /images/f&h.png
     subtitle: >-
       Cannabis retail reimagined. Lifestyle marketplace coming to New Mexico
