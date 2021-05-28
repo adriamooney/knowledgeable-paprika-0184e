@@ -5,7 +5,7 @@ sections:
     actions: []
     align: left
     image_alt: Hero placeholder image
-    image_position: left
+    image_position: right
     has_background: true
     background:
       background_color: white
