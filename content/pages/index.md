@@ -15,7 +15,9 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    subtitle: Cannabis retail reimagined.  Coming to New Mexico 2022
+    subtitle: >-
+      Cannabis retail reimagined. Lifestyle marketplace coming to New Mexico
+      2022
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
