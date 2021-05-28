@@ -17,7 +17,7 @@ sections:
     subtitle: >-
       Cannabis retail reimagined. Lifestyle marketplace coming to New Mexico
       2022
-  - title: lorem-ipsum
+  - title: Coming Soon!
     subtitle: lorem-ipsum
     actions: []
     has_background: false
