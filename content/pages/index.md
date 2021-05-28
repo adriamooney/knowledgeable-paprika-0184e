@@ -13,6 +13,7 @@ sections:
       background_image_opacity: 80
       background_image_size: contain
       background_image_repeat: no-repeat
+      background_image: /images/diagonal-lines.svg
     subtitle: >-
       Cannabis retail reimagined. Lifestyle marketplace coming to New Mexico
       2022
