@@ -16,7 +16,7 @@ sections:
     title: Coming Soon!
     subtitle: Cannabis retail reimagined. Marketplace coming to New Mexico 2022
 seo:
-  title: Stackbit Starter Theme
+  title: Flowers and Herb
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
