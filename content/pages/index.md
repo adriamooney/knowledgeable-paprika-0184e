@@ -14,6 +14,7 @@ sections:
       background_image_repeat: no-repeat
       background_image: /images/f&h.png
     title: Coming Soon!
+    image: /images/f&h.png
   - title: Coming Soon!
     subtitle: >-
       Cannabis retail reimagined. Lifestyle marketplace coming to New Mexico
