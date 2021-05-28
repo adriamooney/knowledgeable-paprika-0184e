@@ -3,13 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Flowers & Herb
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     align: left
     image_alt: Hero placeholder image
     image_position: right
