@@ -13,9 +13,6 @@ sections:
       background_image_size: contain
       background_image_repeat: no-repeat
       background_image: /images/f&h.png
-    subtitle: >-
-      Cannabis retail reimagined. Lifestyle marketplace coming to New Mexico
-      2022
   - title: Coming Soon!
     subtitle: >-
       Cannabis retail reimagined. Lifestyle marketplace coming to New Mexico
