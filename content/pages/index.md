@@ -12,7 +12,6 @@ sections:
       background_image_opacity: 80
       background_image_size: contain
       background_image_repeat: no-repeat
-    title: Coming Soon!
     image: /images/f&h.png
   - title: Coming Soon!
     subtitle: >-
