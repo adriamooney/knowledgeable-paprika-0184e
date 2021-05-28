@@ -5,7 +5,6 @@ sections:
     title: Coming soon!
     actions: []
     align: left
-    image: images/hero.svg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
