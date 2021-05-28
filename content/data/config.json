@@ -31,8 +31,7 @@
                 "style": "primary"
             }
         ],
-        "logo_alt": "Flowers & Herb",
-        "logo": "/images/f&h.png"
+        "logo_alt": "Flowers & Herb"
     },
     "footer": {
         "has_nav": false,
