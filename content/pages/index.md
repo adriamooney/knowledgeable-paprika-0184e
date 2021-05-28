@@ -17,7 +17,7 @@ sections:
     subtitle: Cannabis retail reimagined. Marketplace coming to New Mexico 2022
 seo:
   title: Flowers and Herb
-  description: Cannabis, flowers and more
+  description: Cannabis retail reimagined
   extra:
     - name: 'og:type'
       value: website
