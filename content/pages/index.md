@@ -19,7 +19,7 @@ sections:
       Cannabis retail reimagined. Lifestyle marketplace coming to New Mexico
       2022
     actions: []
-    has_background: false
+    has_background: true
     background_color: white
     type: cta_section
 seo:
