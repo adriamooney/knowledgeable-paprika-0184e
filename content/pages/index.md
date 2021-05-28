@@ -14,9 +14,7 @@ sections:
       background_image_repeat: no-repeat
     image: /images/f&h.png
     title: Coming Soon!
-    subtitle: >-
-      Cannabis retail reimagined. Lifestyle marketplace coming to New Mexico
-      2022
+    subtitle: Cannabis retail reimagined. Marketplace coming to New Mexico 2022
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
