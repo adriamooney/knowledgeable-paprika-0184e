@@ -10,7 +10,6 @@ sections:
     has_background: true
     background:
       background_color: blue
-      background_image: /images/pexels-artem-beliaikin-1051747.jpg
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
