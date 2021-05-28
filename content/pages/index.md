@@ -17,7 +17,6 @@ sections:
     subtitle: >-
       Cannabis retail reimagined. Lifestyle marketplace coming to New Mexico
       2022
-    image: /images/pexels-artem-beliaikin-1051747.jpg
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
