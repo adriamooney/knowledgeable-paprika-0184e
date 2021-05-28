@@ -39,7 +39,7 @@ seo:
     - name: 'twitter:description'
       value: Cannabis retail reimagined
     - name: 'twitter:image'
-      value: images/starter-preview.png
+      value: images/f&h_preview.png
       relativeUrl: true
 layout: advanced
 ---
