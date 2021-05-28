@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:title'
       value: Flowers and Herb
     - name: 'twitter:description'
-      value: Flowers and Herb
+      value: Cannabis retail reimagined
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
