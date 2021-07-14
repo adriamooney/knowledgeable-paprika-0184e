@@ -2,7 +2,6 @@
     "title": "Flowers & Herb",
     "path_prefix": "/",
     "header": {
-        "title": "Flowers & Herb Markets",
         "has_nav": false,
         "nav_links": [
             {
