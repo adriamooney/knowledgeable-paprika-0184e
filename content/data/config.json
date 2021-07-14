@@ -2,7 +2,7 @@
     "title": "Flowers & Herb",
     "path_prefix": "/",
     "header": {
-        "title": "Flowers & Herb",
+        "title": "Flowers & Herb Markets",
         "has_nav": false,
         "nav_links": [
             {
@@ -31,8 +31,7 @@
                 "style": "primary"
             }
         ],
-        "logo_alt": "Flowers & Herb",
-        "logo": "/images/blue-whale.png"
+        "logo_alt": "Flowers & Herb"
     },
     "footer": {
         "has_nav": false,
