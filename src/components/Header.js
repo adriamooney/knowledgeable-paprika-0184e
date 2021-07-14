@@ -6,6 +6,8 @@ import { Link, withPrefix, classNames, getPageUrl } from '../utils';
 import Action from './Action';
 import Icon from './Icon';
 
+import "@fontsource/montserrat/300.css" // Weight 500.
+
 export default class Header extends React.Component {
     constructor(props) {
         super(props);
