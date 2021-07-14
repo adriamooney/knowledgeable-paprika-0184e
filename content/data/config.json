@@ -31,7 +31,8 @@
                 "style": "primary"
             }
         ],
-        "logo_alt": "Flowers & Herb"
+        "logo_alt": "Flowers & Herb",
+        "logo": "/images/blue-whale.png"
     },
     "footer": {
         "has_nav": false,
