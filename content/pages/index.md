@@ -12,7 +12,7 @@ sections:
       background_image_opacity: 80
       background_image_size: contain
       background_image_repeat: no-repeat
-    title: Coming Soon!
+    title: Cannabis retail reimagined.
     subtitle: f&h markets coming to Albuquerque 2022
     image: /images/logo_final_web.png
 seo:
