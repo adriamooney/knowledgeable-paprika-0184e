@@ -13,7 +13,7 @@ sections:
       background_image_size: contain
       background_image_repeat: no-repeat
     title: Coming Soon!
-    subtitle: Cannabis retail reimagined. Marketplace coming to New Mexico 2022
+    subtitle: Cannabis retail reimagined. f&h markets coming to Albuquerque 2022
     image: /images/logo_final_web.png
 seo:
   title: Flowers and Herb
