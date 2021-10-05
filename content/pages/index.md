@@ -14,7 +14,7 @@ sections:
       background_image_repeat: no-repeat
     title: Beyond Cannabis
     subtitle: 'f&h markets coming to Albuquerque, January 2022'
-    image: /images/logo_final_web.png
+    image: /images/logo_f_and_h.png
 seo:
   title: Flowers and Herb
   description: Cannabis retail reimagined
