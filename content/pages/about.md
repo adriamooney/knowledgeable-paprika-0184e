@@ -57,7 +57,7 @@ sections:
           2022.
 
 
-          You can follow the transformation of 119 on [Duck Duck Go](https://duckduckgo.com)
+          You can follow the transformation of 119 on [Instagram](https://duckduckgo.com)
         align: left
         image_alt: lorem-ipsum
         image_position: left
