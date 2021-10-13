@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import { markdownify, html } from '../utils';
+import { markdownify, htmlToReact } from '../utils';
 
 export default class ContentSection extends React.Component {
     render() {
