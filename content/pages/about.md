@@ -31,17 +31,36 @@ sections:
   - title: lorem-ipsum
     features:
       - title: RETAIL
-        content: >-
-          ## Lorem ipsum
+        content: >
+          *"It's chaos, and make no mistake, for the universe is just being
+          born. It's the great becoming that makes the light and the heat and
+          the motion, and bangs you from hither to yon."
+
+          **~Winston Niles Rumford***
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *"We must learn to reawaken and keep ourselves awake, not by
+          mechanical aids, but by an infinite expectation of the dawn." ~
+          **Henry D. Thoreau**
+
+          *
+
+          The universe is just being born and humanity is here to witness it. So
+          we stand at the precipice of a moral awakening. f\&h is part and
+          parcel of that change. The manifestation of the becoming that you too
+          are a member.
 
 
-          - Lorem ipsum
+          Creating an open space for lifestyle curation and personal choice
+          design, f\&h is here to be a partner in your quest for a simple,
+          balanced life.
 
-          - dolor sit amet
+
+          f\&h will open its flagship retail location at 119 San Pasquale SW in
+          2022.   
+
+
+          You can follow the transformation of 119 on Instagram. 
         align: left
         image_alt: lorem-ipsum
         image_position: left
