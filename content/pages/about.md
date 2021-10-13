@@ -41,7 +41,7 @@ sections:
           mechanical aids, but by an infinite expectation of the dawn." ~
           **Henry D. Thoreau**
           
-          
+
           The universe is just being born and humanity is here to witness it. So
           we stand at the precipice of a moral awakening. f\&h is part and
           parcel of that change. The manifestation of the becoming that you too
@@ -57,7 +57,7 @@ sections:
           2022.
 
 
-          You can follow the transformation of 119 on Instagram.
+          You can follow the transformation of 119 on [Duck Duck Go](https://duckduckgo.com)
         align: left
         image_alt: lorem-ipsum
         image_position: left
