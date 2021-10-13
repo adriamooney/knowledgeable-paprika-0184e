@@ -28,19 +28,19 @@ sections:
       - content/data/team/gordon-norman.yaml
   - title: Contact
     type: contact_section
-  - title: lorem-ipsum
-    features:
+  - features:
       - title: RETAIL
         content: >
           > "It's chaos, and make no mistake, for the universe is just being
           born. It's the great becoming that makes the light and the heat and
-          the motion, and bangs you from hither to yon." ~**Winston Niles Rumford**
+          the motion, and bangs you from hither to yon." ~**Winston Niles
+          Rumford**
 
 
           > "We must learn to reawaken and keep ourselves awake, not by
           mechanical aids, but by an infinite expectation of the dawn." ~
           **Henry D. Thoreau**
-          
+
 
           The universe is just being born and humanity is here to witness it. So
           we stand at the precipice of a moral awakening. f\&h is part and
@@ -57,7 +57,8 @@ sections:
           2022.
 
 
-          You can follow the transformation of 119 on [Instagram](https://www.instagram.com/fandhmarkets/)
+          You can follow the transformation of 119 on
+          [Instagram](https://www.instagram.com/fandhmarkets/)
         align: left
         image_alt: lorem-ipsum
         image_position: left
