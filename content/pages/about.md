@@ -64,14 +64,6 @@ sections:
         image_position: left
         actions: []
     type: features_section
-  - title: lorem-ipsum
-    content: |
-      \<h2>what does this doe\</h2> 
-
-
-
-      \<p>boo\</p>
-    type: content_section
 seo:
   title: Who We Are
   description: This is the about us page
