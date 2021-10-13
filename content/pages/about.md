@@ -26,7 +26,7 @@ sections:
       - content/data/team/eleanor-carr.yaml
       - content/data/team/hanson-deck.yaml
       - content/data/team/gordon-norman.yaml
-  - title: lorem-ipsum
+  - title: Contact
     type: contact_section
 seo:
   title: Who We Are
