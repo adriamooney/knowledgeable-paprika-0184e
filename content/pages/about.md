@@ -37,7 +37,7 @@ sections:
           the motion, and bangs you from hither to yon." ~Winston Niles Rumford***
 
 
-          \*"We must learn to reawaken and keep ourselves awake, not by
+          > "We must learn to reawaken and keep ourselves awake, not by
           mechanical aids, but by an infinite expectation of the dawn." ~
           **Henry D. Thoreau**
 
