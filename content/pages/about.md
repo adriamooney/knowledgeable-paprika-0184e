@@ -36,7 +36,7 @@ sections:
           born. It's the great becoming that makes the light and the heat and
           the motion, and bangs you from hither to yon."
 
-          **~Winston Niles Rumford***
+          ~Winston Niles Rumford***
 
 
           \*"We must learn to reawaken and keep ourselves awake, not by
