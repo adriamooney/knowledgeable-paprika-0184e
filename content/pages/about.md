@@ -30,7 +30,7 @@ sections:
     type: contact_section
   - title: lorem-ipsum
     features:
-      - title: lorem-ipsum
+      - title: RETAIL
         content: >-
           ## Lorem ipsum
 
