@@ -57,10 +57,10 @@ sections:
 
 
           f\&h will open its flagship retail location at 119 San Pasquale SW in
-          2022.   
+          2022.
 
 
-          You can follow the transformation of 119 on Instagram. 
+          You can follow the transformation of 119 on Instagram.
         align: left
         image_alt: lorem-ipsum
         image_position: left
