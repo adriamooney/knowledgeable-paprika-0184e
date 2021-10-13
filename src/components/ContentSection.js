@@ -14,7 +14,7 @@ export default class ContentSection extends React.Component {
                 <div className="container container--md">
                     {title && <h2 className="section__title align-center">{title}</h2>}
                     {/* {content && <div className="section__copy">{markdownify(content)}</div>} */}
-                    {/* {content && <div className="section__copy">{markdownify(content)}</div>} */}
+                    {content && <div className="section__copy">{markdownify(content)}</div>}
 
                 </div>
             </section>
