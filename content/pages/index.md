@@ -16,12 +16,17 @@ sections:
     subtitle: 'f&h markets coming to Albuquerque, January 2022'
     image: /images/logo_f_and_h.png
   - title: Location
-    content: |
-      ###### Location
-
+    content: |+
       119 San Pasquale Ave SW
 
       Albuquerque, NM 87104
+
+
+
+      #### Hours
+
+      8am to 8pm every  day
+
     type: content_section
 seo:
   title: Flowers and Herb
