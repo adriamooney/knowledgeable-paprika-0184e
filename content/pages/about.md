@@ -8,17 +8,6 @@ sections:
     image_alt: f&h markets cannabis logo
     has_background: true
     subtitle: What about some other stuff that I could write here?
-  - type: team_section
-    title: Our Team
-    team:
-      - content/data/team/miles-tone.yaml
-      - content/data/team/dianne-ameter.yaml
-      - content/data/team/eleanor-carr.yaml
-      - content/data/team/hanson-deck.yaml
-      - content/data/team/gordon-norman.yaml
-      - content/data/team/person-9jjlwz8sd.json
-  - title: Contact
-    type: contact_section
   - features:
       - title: RETAIL
         content: >
@@ -80,6 +69,17 @@ sections:
         image_position: left
         actions: []
     type: features_section
+  - type: team_section
+    title: Our Team
+    team:
+      - content/data/team/miles-tone.yaml
+      - content/data/team/dianne-ameter.yaml
+      - content/data/team/eleanor-carr.yaml
+      - content/data/team/hanson-deck.yaml
+      - content/data/team/gordon-norman.yaml
+      - content/data/team/person-9jjlwz8sd.json
+  - title: Contact
+    type: contact_section
 seo:
   title: Who We Are
   description: This is the about us page
