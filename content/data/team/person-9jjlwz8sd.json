@@ -4,6 +4,5 @@
     "first_name": "Dave",
     "photo_alt": "lorem-ipsum",
     "bio": "Ops / Vendor Relations / Logistics\n",
-    "type": "person",
-    "photo": "/images/dave_bio.png"
+    "type": "person"
 }
