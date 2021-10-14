@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: About
 sections:
   - type: hero_section
     title: Beyond Cannabis
