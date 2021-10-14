@@ -68,9 +68,9 @@ sections:
     team:
       - content/data/team/miles-tone.yaml
       - content/data/team/gordon-norman.yaml
-      - content/data/team/dianne-ameter.yaml
       - content/data/team/eleanor-carr.yaml
       - content/data/team/hanson-deck.yaml
+      - content/data/team/dianne-ameter.yaml
       - content/data/team/person-9jjlwz8sd.json
 seo:
   title: Who We Are
