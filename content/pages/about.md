@@ -6,7 +6,7 @@ sections:
     align: center
     image: /images/logo_final_web.png
     image_alt: f&h markets cannabis logo
-    has_background: false
+    has_background: true
     subtitle: 'Beauty, ease, simplicity and awakening.'
   - features:
       - title: RETAIL
