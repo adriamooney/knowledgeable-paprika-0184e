@@ -27,8 +27,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions: []
-      - title: OPERATIONS
-        content: >
+      - content: >
           > "Whatever you can do or dream you can do, begin it. Boldness has
           genius, power and magic in it!"  
 
