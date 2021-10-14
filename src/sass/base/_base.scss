@@ -8,12 +8,9 @@ html {
 
 body {
   background-color: $color-bg;
-  background-color: #faa499;
-background-color: #cdedfd;
-background-image: linear-gradient(319deg, #cdedfd 0%, #ffec82 37%, #ffcfd2 100%);
-  background-size:  auto 600px;
-  background-repeat: no-repeat;
-  background-position: center top;
+   background: #d9a7c7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #d9a7c7, #fffcdc); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #d9a7c7, #fffcdc); 
   color: $color-text;
   line-height: 1.625;
   text-rendering: optimizeLegibility;
