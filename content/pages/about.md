@@ -7,7 +7,7 @@ sections:
     image: /images/logo_final_web.png
     image_alt: f&h markets cannabis logo
     has_background: true
-    subtitle: What about something else?
+    subtitle: What about some other stuff that I could write here?
   - type: content_section
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
