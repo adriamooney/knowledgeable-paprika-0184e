@@ -72,7 +72,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Who We Are
+      value: 'Flowers and Herb / f&h Markets - About '
       keyName: property
     - name: 'og:description'
       value: This is the about us page
