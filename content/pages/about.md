@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Who We Are
     align: center
+    image: /images/logo_final_web.png
   - type: content_section
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
@@ -34,13 +35,13 @@ sections:
           > "It's chaos, and make no mistake, for the universe is just being
           born. It's the great becoming that makes the light and the heat and
           the motion, and bangs you from hither to yon."  
-          
+
           **~Winston NilesRumford**
 
 
           > "We must learn to reawaken and keep ourselves awake, not by
           mechanical aids, but by an infinite expectation of the dawn."  
-          
+
           **~Henry D. Thoreau**
 
 
@@ -69,10 +70,10 @@ sections:
         content: >
           > "Whatever you can do or dream you can do, begin it. Boldness has
           genius, power and magic in it!"
-          
+
           **~ J. W. Von Goethe**
-          
-          
+
+
           It's not as easy as turning the lights on or opening the doors.
           Running a profitable cannabis business requires a keen eye for
           operational details. f\&h is here to act as a partner in the New
@@ -80,7 +81,7 @@ sections:
 
 
           * Scalable storage and delivery 
-          
+
           * Timely trimming and packaging
 
           * Open marketplace secured for businesses only
