@@ -32,7 +32,7 @@ seo:
       value: Flowers and Herb
       keyName: property
     - name: 'og:image'
-      value: images/f_h_preview.png
+      value: /images/logo_f_and_h.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
