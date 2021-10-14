@@ -62,7 +62,7 @@ sections:
       - content/data/team/person-9jjlwz8sd.json
       - content/data/team/miles-tone.yaml
 seo:
-  title: 'Flowers and Herb / f&h Markets - About '
+  title: 'Flowers and Herb / f&h Markets '
   description: >-
     f&h is a retailer of cannabis, fresh flowers, and locally made items that
     delight the senses. Come visit our flagship store in Old Town, Albuquerque
