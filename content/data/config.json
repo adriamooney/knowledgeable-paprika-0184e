@@ -5,7 +5,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "home",
                 "url": "/",
                 "style": "link",
                 "new_window": false,
