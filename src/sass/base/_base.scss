@@ -19,7 +19,9 @@ body {
   @include fontSmooth();
 }
 
-
+body:after {
+    
+}
 
 a {
   color: $color-link;
