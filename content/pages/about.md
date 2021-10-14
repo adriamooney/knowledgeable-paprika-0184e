@@ -16,15 +16,7 @@ sections:
           D. Thoreau**
 
 
-          The universe is just being born and humanity is here to witness it. So
-          we stand at the precipice of a moral awakening. f\&h is part and
-          parcel of that change. The manifestation of the becoming that you too
-          are a member.
-
-
-          Creating an open space for lifestyle curation and personal choice
-          design, f\&h is here to be a partner in your quest for a simple,
-          balanced life.
+          f&h is a retailer of cannabis, fresh flowers, and locally made items that delight the senses. 
 
 
           f\&h will open its flagship retail location at 119 San Pasquale SW,

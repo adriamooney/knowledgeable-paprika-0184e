@@ -16,6 +16,8 @@
   }
 
   a {
+    font-size:1.25rem;
+    font-family:$font-family-fancy;
     &:not(.btn) {
       border: 0;
       color: inherit;
