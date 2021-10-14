@@ -15,17 +15,11 @@ sections:
   - features:
       - title: RETAIL
         content: >
-          > "It's chaos, and make no mistake, for the universe is just being
-          born. It's the great becoming that makes the light and the heat and
-          the motion, and bangs you from hither to yon."  
-
-          **~Winston NilesRumford**
-
-
           > "We must learn to reawaken and keep ourselves awake, not by
-          mechanical aids, but by an infinite expectation of the dawn."  
+          mechanical aids, but by an infinite expectation of the dawn."**~Henry
+          D. Thoreau**
 
-          **~Henry D. Thoreau**
+
 
 
           The universe is just being born and humanity is here to witness it. So
