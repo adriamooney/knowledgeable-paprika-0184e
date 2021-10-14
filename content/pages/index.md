@@ -17,7 +17,10 @@ sections:
     image: /images/logo_f_and_h.png
 seo:
   title: Flowers and Herb
-  description: Cannabis retail reimagined
+  description: >-
+    f&h is a retailer of cannabis, fresh flowers, and locally made items that
+    delight the senses. Come visit our flagship store in Old Town, Albuquerque
+    in 2022.
   extra:
     - name: 'og:type'
       value: website
