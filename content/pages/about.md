@@ -62,7 +62,7 @@ sections:
       - content/data/team/person-9jjlwz8sd.json
       - content/data/team/miles-tone.yaml
 seo:
-  title: Who We Are
+  title: ABout
   description: This is the about us page
   extra:
     - name: 'og:type'
