@@ -15,7 +15,7 @@ sections:
     title: Beyond Cannabis
     subtitle: 'f&h markets coming to Albuquerque, January 2022'
     image: /images/logo_f_and_h.png
-  - title: '"Averia Serif Libre"'
+  - title: 119 san pasquale ave sw albuquerque nm 87104
     subtitle: lorem-ipsum
     actions: []
     align: left
