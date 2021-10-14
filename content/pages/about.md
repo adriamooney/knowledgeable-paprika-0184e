@@ -87,7 +87,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Who We Are
+      value: Flowers and Herb / f&h Markets
     - name: 'twitter:description'
       value: This is the about us page
     - name: 'twitter:image'
