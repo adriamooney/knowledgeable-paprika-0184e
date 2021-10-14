@@ -7,7 +7,7 @@ export default class ContactSection extends React.Component {
         const title = _.get(section, 'title');
 
         return (
-            <section className="section">
+            <section className="section contact_section">
                 <div className="container container--md">
                     {title && <h2 className="section__title align-center">{title}</h2>}
                     <form name="contactForm" id="contactForm" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
