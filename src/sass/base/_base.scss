@@ -74,13 +74,14 @@ h6 {
 }
 
 blockquote {
-  border-left: 3px solid $color-blockquote-border;
+  // border-left: 3px solid $color-blockquote-border;
   color: $color-blockquote;
   font-size: 1.25em;
   font-style: italic;
   line-height: 1.5;
   margin: 2.25rem 0;
   padding: 0 1.2em;
+  font-family: $font-family-fancy;
 
   &:first-child {
     margin-top: 0;
@@ -168,7 +169,14 @@ figure {
 /* additions */
 
 .content_section, .contact_section .container {
-  background: #ffffff;
+  // background:$color-bg-fleshy;
   border-radius: 4px;
   padding:15px;
+  background-color: rgba(255, 255, 255, .15);   
+  backdrop-filter: blur(5px);
+}
+
+
+.section__title {
+  font-family: $font-family-fancy;
 }
