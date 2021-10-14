@@ -67,9 +67,9 @@ sections:
         content: >
           > "Whatever you can do or dream you can do, begin it. Boldness has
           genius, power and magic in it!" **~ J. W. Von Goethe**
-
-
-          *   It's not as easy as turning the lights on or opening the doors.
+          
+          
+          It's not as easy as turning the lights on or opening the doors.
           Running a profitable cannabis business requires a keen eye for
           operational details. f\&h is here to act as a partner in the New
           Mexico recreational market by helping you address:
