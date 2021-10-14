@@ -64,17 +64,24 @@ sections:
         image_position: left
         actions: []
       - title: OPERATIONS
-        content: >-
-          ## Lorem ipsum
+        content: >
+          *   "Whatever you can do or dream you can do, begin it. Boldness has
+          genius, power and magic in it!"
+              \~ J. W. Von Goethe
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   It's not as easy as turning the lights on or opening the doors.
+          Running a profitable cannabis business requires a keen eye for
+          operational details. f\&h is here to act as a partner in the New
+          Mexico recreational market by helping you address:
 
 
-          - Lorem ipsum
 
-          - dolor sit amet
+          \* Scalable storage and delivery 
+
+          \* Timely trimming and packaging
+
+          \* Open marketplace secured for businesses only
         align: left
         image_alt: lorem-ipsum
         image_position: left
