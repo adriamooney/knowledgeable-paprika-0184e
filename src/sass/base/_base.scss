@@ -19,9 +19,6 @@ body {
   @include fontSmooth();
 }
 
-body:after {
-   opacity:.5; 
-}
 
 a {
   color: $color-link;
