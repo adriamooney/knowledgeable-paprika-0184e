@@ -31,7 +31,7 @@ export default class FeaturesSection extends React.Component {
                         <img src={withPrefix(image)} alt={imageAlt} />
                     </div>
                 )}
-                <div className="section__body cell">
+                <div className="section__body cell content_section">
                     {title && (
                         sectionTitle ? <h3 className="section__title">{title}</h3>
                             : <h2 className="section__title">{title}</h2>
