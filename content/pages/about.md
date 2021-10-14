@@ -37,6 +37,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions: []
+        image: /images/op_bg.png
       - title: OPERATIONS
         content: >
           > "Whatever you can do or dream you can do, begin it. Boldness has
