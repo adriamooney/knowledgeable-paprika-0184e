@@ -63,7 +63,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions: []
-      - title: lorem-ipsum
+      - title: OPERATIONS
         content: >-
           ## Lorem ipsum
 
