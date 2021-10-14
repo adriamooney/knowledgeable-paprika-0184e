@@ -16,7 +16,7 @@ sections:
     subtitle: 'f&h markets coming to Albuquerque, January 2022'
     image: /images/logo_f_and_h.png
 seo:
-  title: Flowers and Herb
+  title: Flowers and Herb / f&h Markets
   description: >-
     f&h is a retailer of cannabis, fresh flowers, and locally made items that
     delight the senses. Come visit our flagship store in Old Town, Albuquerque
