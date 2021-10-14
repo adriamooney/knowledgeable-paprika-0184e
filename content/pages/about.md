@@ -63,7 +63,10 @@ sections:
       - content/data/team/miles-tone.yaml
 seo:
   title: ABout
-  description: This is the about us page
+  description: >-
+    f&h is a retailer of cannabis, fresh flowers, and locally made items that
+    delight the senses. Come visit our flagship retail location at 119 San
+    Pasquale SW, Albuquerque in 2022.
   extra:
     - name: 'og:type'
       value: website
