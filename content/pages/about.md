@@ -12,14 +12,12 @@ sections:
       - title: RETAIL
         content: >
           > "We must learn to reawaken and keep ourselves awake, not by
-          mechanical aids, but by an infinite expectation of the dawn."**~Henry
-          D. Thoreau**
+          mechanical aids, but by an infinite expectation of the dawn."  
+          
+          **~ Henry D. Thoreau**
 
 
-          f&h is a retailer of cannabis, fresh flowers, and locally made items that delight the senses. 
-
-
-          f\&h will open its flagship retail location at 119 San Pasquale SW,
+          f&h is a retailer of cannabis, fresh flowers, and locally made items that delight the senses. Come visit our flagship retail location at 119 San Pasquale SW,
           Albuquerque in 2022.
 
 
@@ -32,8 +30,8 @@ sections:
       - title: OPERATIONS
         content: >
           > "Whatever you can do or dream you can do, begin it. Boldness has
-          genius, power and magic in it!"
-
+          genius, power and magic in it!"  
+          
           **~ J. W. Von Goethe**
 
 
