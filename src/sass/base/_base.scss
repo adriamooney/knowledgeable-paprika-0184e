@@ -8,9 +8,8 @@ html {
 
 body {
   background-color: $color-bg;
-  background: #d9a7c7; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to bottom, #d9a7c7, #fffcdc); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to bottom, #d9a7c7, #fffcdc); 
+  background: rgb(231,222,217);
+background: radial-gradient(circle, rgba(231,222,217,1) 0%, rgba(203,221,209,1) 100%);
   color: $color-text;
   line-height: 1.625;
   text-rendering: optimizeLegibility;
