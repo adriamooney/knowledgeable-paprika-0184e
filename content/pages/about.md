@@ -81,7 +81,7 @@ seo:
         Albuquerque in 2022.
       keyName: property
     - name: 'og:image'
-      value: images/1.png
+      value: /images/logo_f_and_h.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
