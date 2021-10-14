@@ -66,8 +66,7 @@ sections:
       - title: OPERATIONS
         content: >
           > "Whatever you can do or dream you can do, begin it. Boldness has
-          genius, power and magic in it!"
-              \~ J. W. Von Goethe
+          genius, power and magic in it!" **~ J. W. Von Goethe
 
 
           *   It's not as easy as turning the lights on or opening the doors.
