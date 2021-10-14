@@ -94,7 +94,7 @@ seo:
         that delight the senses. Come visit our flagship store in Old Town,
         Albuquerque in 2022.
     - name: 'twitter:image'
-      value: images/1.png
+      value: /images/logo_f_and_h.png
       relativeUrl: true
 layout: advanced
 ---
