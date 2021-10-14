@@ -7,7 +7,11 @@ sections:
     image: /images/logo_final_web.png
     image_alt: f&h markets cannabis logo
     has_background: true
-    subtitle: What about some other stuff that I could write here?
+    subtitle: >-
+      "We must learn to reawaken and keep ourselves awake, not by mechanical
+      aids, but by an infinite expectation of the dawn."
+
+      ~Henry D. Thoreau
   - features:
       - title: RETAIL
         content: >
