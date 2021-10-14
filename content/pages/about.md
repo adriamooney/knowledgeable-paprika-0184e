@@ -9,16 +9,16 @@ sections:
     has_background: true
     subtitle: 'Beauty, ease, simplicity and awakening.'
   - features:
-      - title: RETAIL
-        content: >
+      - content: >
           > "We must learn to reawaken and keep ourselves awake, not by
           mechanical aids, but by an infinite expectation of the dawn."  
-          
+
           **~ Henry D. Thoreau**
 
 
-          f&h is a retailer of cannabis, fresh flowers, and locally made items that delight the senses. Come visit our flagship retail location at 119 San Pasquale SW,
-          Albuquerque in 2022.
+          f&h is a retailer of cannabis, fresh flowers, and locally made items
+          that delight the senses. Come visit our flagship retail location at
+          119 San Pasquale SW, Albuquerque in 2022.
 
 
           You can follow the transformation of 119 on
@@ -31,7 +31,7 @@ sections:
         content: >
           > "Whatever you can do or dream you can do, begin it. Boldness has
           genius, power and magic in it!"  
-          
+
           **~ J. W. Von Goethe**
 
 
