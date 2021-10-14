@@ -75,9 +75,9 @@ sections:
           Mexico recreational market by helping you address:
 
 
-          - Scalable storage and delivery 
-          - Timely trimming and packaging
-          - Open marketplace secured for businesses only
+          * Scalable storage and delivery 
+          * Timely trimming and packaging
+          * Open marketplace secured for businesses only
         align: left
         image_alt: lorem-ipsum
         image_position: left
