@@ -8,10 +8,7 @@ html {
 
 body {
   background-color: $color-bg;
-    -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+   
   color: $color-text;
   line-height: 1.625;
   text-rendering: optimizeLegibility;
@@ -20,6 +17,10 @@ body {
 body::after {
       content: "";
     background: url(/images/5411399861_9446a4398b_h.jpg) no-repeat center center fixed; 
+     -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
 
 }
