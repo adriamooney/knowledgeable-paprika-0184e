@@ -20,8 +20,6 @@ sections:
           D. Thoreau**
 
 
-
-
           The universe is just being born and humanity is here to witness it. So
           we stand at the precipice of a moral awakening. f\&h is part and
           parcel of that change. The manifestation of the becoming that you too
@@ -33,8 +31,8 @@ sections:
           balanced life.
 
 
-          f\&h will open its flagship retail location at 119 San Pasquale SW in
-          2022.
+          f\&h will open its flagship retail location at 119 San Pasquale SW,
+          Albuquerque in 2022.
 
 
           You can follow the transformation of 119 on
