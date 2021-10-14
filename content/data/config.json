@@ -12,7 +12,7 @@
                 "no_follow": false
             },
             {
-                "label": "About",
+                "label": "about",
                 "url": "/about",
                 "style": "link"
             },
