@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions: []
-    align: left
+    align: center
     image_alt: Hero placeholder image
     image_position: left
     has_background: true
