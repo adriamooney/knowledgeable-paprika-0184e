@@ -19,7 +19,8 @@ body {
   @include fontSmooth();
 }
 body::after {
-    
+      content: "";
+        
 }
 
 a {
