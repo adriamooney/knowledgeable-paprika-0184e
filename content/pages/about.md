@@ -76,7 +76,7 @@ sections:
 
 
 
-          \* Scalable storage and delivery 
+          * Scalable storage and delivery 
 
           \* Timely trimming and packaging
 
