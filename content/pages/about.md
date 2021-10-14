@@ -16,6 +16,7 @@ sections:
       - content/data/team/eleanor-carr.yaml
       - content/data/team/hanson-deck.yaml
       - content/data/team/gordon-norman.yaml
+      - content/data/team/person-9jjlwz8sd.json
   - title: Contact
     type: contact_section
   - features:
