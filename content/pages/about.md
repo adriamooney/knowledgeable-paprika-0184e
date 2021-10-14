@@ -2,7 +2,7 @@
 title: Who We Are
 sections:
   - type: hero_section
-    title: Our Mission
+    title: Beyond Cannabis
     align: center
     image: /images/logo_final_web.png
     image_alt: f&h markets cannabis logo
