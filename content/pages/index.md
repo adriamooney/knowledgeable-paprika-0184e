@@ -16,7 +16,7 @@ sections:
     subtitle: 'f&h markets coming to Albuquerque, January 2022'
     image: /images/logo_f_and_h.png
   - title: Location
-    subtitle: lorem-ipsum
+    subtitle: 119 san pasquale ave sw albuquerque nm 87104
     actions: []
     align: left
     image_alt: lorem-ipsum
