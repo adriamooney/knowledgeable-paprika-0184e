@@ -7,6 +7,7 @@ import Action from './Action';
 import Icon from './Icon';
 
 import "@fontsource/montserrat/300.css" // Weight 500.
+import "@fontsource/homemade-apple"; 
 
 export default class Header extends React.Component {
     constructor(props) {
