@@ -65,7 +65,7 @@ sections:
         actions: []
       - title: OPERATIONS
         content: >
-          *   "Whatever you can do or dream you can do, begin it. Boldness has
+          > "Whatever you can do or dream you can do, begin it. Boldness has
           genius, power and magic in it!"
               \~ J. W. Von Goethe
 
