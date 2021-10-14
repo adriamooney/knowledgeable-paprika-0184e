@@ -3,7 +3,7 @@ title: Who We Are
 sections:
   - type: hero_section
     title: Something
-    align: center
+    align: right
     image: /images/logo_final_web.png
     image_alt: f&h markets cannabis logo
     has_background: true
