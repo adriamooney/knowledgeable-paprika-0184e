@@ -67,6 +67,8 @@ sections:
         image_position: left
         actions: []
     type: features_section
+  - title: Contact
+    type: contact_section
   - type: team_section
     title: Our Team
     team:
@@ -76,8 +78,6 @@ sections:
       - content/data/team/hanson-deck.yaml
       - content/data/team/gordon-norman.yaml
       - content/data/team/person-9jjlwz8sd.json
-  - title: Contact
-    type: contact_section
 seo:
   title: Who We Are
   description: This is the about us page
