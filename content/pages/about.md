@@ -5,7 +5,7 @@ sections:
     title: Who We Are
     align: center
     image: /images/logo_final_web.png
-    image_alt: f&h cannabis
+    image_alt: f&h markets cannabis
   - type: content_section
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
