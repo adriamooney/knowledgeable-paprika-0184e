@@ -15,7 +15,7 @@ sections:
     title: Beyond Cannabis
     subtitle: 'f&h markets coming to Albuquerque, January 2022'
     image: /images/logo_f_and_h.png
-  - title: lorem-ipsum
+  - title: '"Averia Serif Libre"'
     subtitle: lorem-ipsum
     actions: []
     align: left
