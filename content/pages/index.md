@@ -29,7 +29,10 @@ seo:
       value: Flowers and Herb
       keyName: property
     - name: 'og:description'
-      value: Flowers and Herb
+      value: >-
+        f&h is a retailer of cannabis, fresh flowers, and locally made items
+        that delight the senses. Come visit our flagship store in Old Town,
+        Albuquerque in 2022.
       keyName: property
     - name: 'og:image'
       value: /images/logo_f_and_h.png
