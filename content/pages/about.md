@@ -89,7 +89,10 @@ seo:
     - name: 'twitter:title'
       value: Flowers and Herb / f&h Markets
     - name: 'twitter:description'
-      value: This is the about us page
+      value: >-
+        f&h is a retailer of cannabis, fresh flowers, and locally made items
+        that delight the senses. Come visit our flagship store in Old Town,
+        Albuquerque in 2022.
     - name: 'twitter:image'
       value: images/1.png
       relativeUrl: true
