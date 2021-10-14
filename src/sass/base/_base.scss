@@ -8,7 +8,7 @@ html {
 
 body {
   background-color: $color-bg;
-   background: #d9a7c7; /* fallback for old browsers */
+  background: #d9a7c7; /* fallback for old browsers */
   background: -webkit-linear-gradient(to bottom, #d9a7c7, #fffcdc); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to bottom, #d9a7c7, #fffcdc); 
   color: $color-text;
